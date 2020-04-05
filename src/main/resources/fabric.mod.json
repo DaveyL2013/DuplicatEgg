@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "duplegg",
+  "version": "${version}",
+
+  "name": "DuplicatEgg",
+  "description": "When 1 Dragon Egg wasn't enough, this mod DuplicatEgg'd them!",
+  "authors": [
+    "DaveyL2013"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "WTFPL",
+  "icon": "assets/DuplicatEgg/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.DaveyL2013.duplicategg.DuplicatEgg"
+    ]
+  },
+  "mixins": [
+    "duplicategg.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*",
+    "minecraft": ">=1.14"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.DaveyL2013.duplicategg.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "DuplicatEggMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
