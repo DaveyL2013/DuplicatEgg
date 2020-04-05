@@ -1,7 +1,7 @@
 ---
 name: Issue Report
 about: What's wrong with the mod?
-title: "[Issue] <Problem."
+title: "[Issue] <Problem>"
 labels: ''
 assignees: ''
 
