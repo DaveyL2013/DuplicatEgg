@@ -15,7 +15,7 @@
   },
 
   "license": "WTFPL",
-  "icon": "assets/DuplicatEgg/icon.png",
+  "icon": "assets/duplicategg/icon.png",
 
   "environment": "*",
   "entrypoints": {
