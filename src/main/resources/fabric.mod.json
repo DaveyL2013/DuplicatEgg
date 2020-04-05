@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "duplegg",
-  "version": "${version}",
+  "version": "1.0.0",
 
   "name": "DuplicatEgg",
   "description": "When 1 Dragon Egg wasn't enough, this mod DuplicatEgg'd them!",
@@ -10,7 +10,8 @@
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/duplicategg",
-    "sources": "https://github.com/DaveyL2013/DuplicatEgg"
+    "sources": "https://github.com/DaveyL2013/DuplicatEgg",
+    "issues": "https://github.com/DaveyL2013/DuplicatEgg/issues/new?assignees=&labels=&template=issue-report.md&title=%5BIssue%5D+%3CProblem%3E"
   },
 
   "license": "WTFPL",
