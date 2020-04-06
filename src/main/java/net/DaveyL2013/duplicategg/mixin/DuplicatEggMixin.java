@@ -22,8 +22,6 @@ public class DuplicatEggMixin {
 
 	@Inject(at = @At("HEAD"), method = "dragonKilled")
 	private void mixinDragonKilled(EnderDragonEntity enderDragon, CallbackInfo ci) {
-		System.out.println(previouslyKilled);
 		this.previouslyKilled = false;
-		System.out.println(previouslyKilled);
 	}
 }
